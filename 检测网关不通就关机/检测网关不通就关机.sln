@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29209.62
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "检测网关不通就关机", "检测网关不通就关机.csproj", "{BFB189EC-F143-4ED0-97F8-F5498AD4466B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BFB189EC-F143-4ED0-97F8-F5498AD4466B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFB189EC-F143-4ED0-97F8-F5498AD4466B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFB189EC-F143-4ED0-97F8-F5498AD4466B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFB189EC-F143-4ED0-97F8-F5498AD4466B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2EE5B4CC-438D-487E-91A4-5FF2FF408924}
+	EndGlobalSection
+EndGlobal
